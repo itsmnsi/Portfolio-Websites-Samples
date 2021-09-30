@@ -244,6 +244,7 @@
   <a href="https://www.instagram.com/mnsi021999" target="_blank" ><img data-toggle="tooltip" data-placement="top" title="Instagram" id="ic" src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
 </div>
 
+  <!-- Footer section begins from here... -->
   <div class="footer">
     <div class="text-center">
       <p style="margin-bottom: 0px;font-family: Encode Sans Expanded;">
