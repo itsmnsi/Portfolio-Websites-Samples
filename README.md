@@ -4,6 +4,7 @@ This repo contains a portfolio that showcases examples of your work along with t
 To view a live demo, [click here](https://itsmnsi.000webhostapp.com/portfolio/)
 
 # What is Hacktoberfest?
+![HacktoberFest2021](https://user-images.githubusercontent.com/36513491/135483228-afcff3b3-115f-4091-b9c7-7941789eae51.png)
 A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
 https://hacktoberfest.digitalocean.com/
