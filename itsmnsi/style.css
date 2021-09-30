@@ -1,0 +1,176 @@
+body {
+    color: white;
+    height: 100%;
+    padding: 0px;
+    font-family: 'Encode Sans Expanded';
+}
+
+.body_class {
+    background-image: url("old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall_1258-28312.jpg");
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    -ms-content-zooming: none;
+}
+
+.about {
+    margin-top: 3%;
+    margin-bottom: 10%;
+    box-shadow: 0 8px 16px 0 rgba(255, 255, 255, 0.1), 0 6px 20px 0 rgba(25, 255, 255, 0.2);
+    font-size: 18px;
+    padding: 50px 30px 70px 30px;
+    page-break-after: auto;
+}
+
+.outer {
+    height: 350px;
+    width: 100%;
+}
+
+.button {
+    padding: 12px 55px 12px 55px;
+    font-weight: bold;
+    border-radius: 30px;
+    font-size: 15px;
+}
+
+.button:hover {
+    color: #fff;
+}
+
+.button--colorful {
+    background-color: #0f945c;
+    font-family: Roboto-Light;
+    color: #fff;
+}
+
+.button--default {
+    color: #455a64;
+    border: 1px solid #455a64;
+    margin-right: 15px;
+}
+
+.button--margin {
+    display: inline-block;
+    margin-top: 40px;
+}
+
+#skills {
+    margin-top: 2%;
+}
+
+.skilll {
+    color: rgb(224, 250, 207);
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border-radius: 5px;
+    font-size: 1.8em;
+    padding: 5px 5px 5px 5px;
+    page-break-after: auto;
+}
+
+.footer {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 30px 0px 10px;
+    font-size: large;
+    color: white;
+}
+
+.fas,
+.fa-heart {
+    color: red;
+}
+
+.far,
+.fa-copyright {
+    color: black;
+}
+
+#artt {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 1px;
+    margin-top: 2%;
+}
+
+.column {
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;
+}
+
+.column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+}
+
+@media screen and (max-width: 800px) {
+    .column {
+        flex: 50%;
+        max-width: 50%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .column {
+        flex: 25%;
+        max-width: 100%;
+    }
+}
+
+
+/*social media icons*/
+
+.no-list-style {
+    list-style: none;
+}
+
+.no-list-style li {
+    font-weight: 100;
+    font-size: 0.9rem;
+}
+
+.no-list-style li a {
+    list-style: none;
+    color: white;
+    text-decoration: none;
+}
+
+.horizontal-list {
+    list-style: none;
+    padding-left: 0px;
+    margin: 0px;
+}
+
+.horizontal-list li {
+    display: inline-block;
+    margin: 0px 8px 8px 0px;
+    font-weight: 100;
+    font-size: 1.4rem;
+}
+
+.horizontal-list li a {
+    color: white;
+    text-decoration: none;
+}
+
+.social-icons li a i {
+    color: #ffffff;
+    padding: 10px;
+    font-size: 2rem;
+    border-radius: 50%;
+}
+
+.social-icons li a i:hover {
+    box-shadow: 0px 0px 6px 4px rgba(230, 196, 196, 0.3);
+}
