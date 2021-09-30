@@ -12,6 +12,7 @@ https://hacktoberfest.digitalocean.com/
 1. Fork this respository.
 2. Create a folder with unique name.
 3. Upload your portfolio code in that folder.
-4. Make a pull request. 
+4. Add your name to the CONTRIBUTORS.md file
+5. Make a pull request. 
 
 
