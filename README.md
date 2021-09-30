@@ -21,7 +21,7 @@ https://hacktoberfest.digitalocean.com/
    - Place: City, State, Country
    - Bio: Who are you?
    - GitHub: [GitHub account name](GitHub link)
-   - Portfolio website link: demo, [click here](https://itsmnsi.000webhostapp.com/portfolio/)
+   - Portfolio website link: demo(https://itsmnsi.000webhostapp.com/portfolio/)
 6. Create a new pull request from your forked repository. (Click the New Pull Request button located at the top of your repo)
 7. Wait for your PR review and merge approval!
 8. Star this repository if you had fun!
