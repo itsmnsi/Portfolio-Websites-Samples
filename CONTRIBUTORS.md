@@ -13,5 +13,5 @@
 #### Name: Chiranjeev Vishnoi
 - Place: Bhilwara, Rajasthan, India
 - Bio: Full Stack Web Developer | Young YouTuber with 1500+ Young Hustlers. | Coder |
-- GitHub: https://github.com/amankumar11
+- GitHub: https://github.com/Chiranjeev-droid
 - Portfolio website link: http://chiranjeev.000webhostapp.com/
